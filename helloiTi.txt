@@ -6,8 +6,9 @@ public:
 void hi ()
 {
 cout << " hello iti" ;
+cout << "hello GIT" ;
 }
-}
+};
 int main (){
 hi();
 }

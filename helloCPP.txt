@@ -7,7 +7,7 @@ void hi ()
 {
 cout << " hello world" ;
 }
-}
+};
 int main (){
 hi();
 }
