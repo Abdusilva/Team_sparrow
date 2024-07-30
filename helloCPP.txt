@@ -9,5 +9,6 @@ cout << " hello world" ;
 }
 };
 int main (){
-hi();
+helloworld ob;
+ob.hi();
 }

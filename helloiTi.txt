@@ -10,5 +10,6 @@ cout << "hello GIT" ;
 }
 };
 int main (){
-hi();
+helloiti ob;
+ob.hi();
 }
