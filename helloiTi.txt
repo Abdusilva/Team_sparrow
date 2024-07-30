@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std ;
+
+class helloiti {
+public:
+void hi ()
+{
+cout << " hello iti" ;
+}
+}
+int main (){
+hi();
+}
