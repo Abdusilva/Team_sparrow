@@ -5,7 +5,7 @@ class helloworld{
 public:
 void hi ()
 {
-cout << " hello world" ;
+cout << " hello " ;
 }
 };
 int main (){
