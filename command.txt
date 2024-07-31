@@ -1,0 +1,18 @@
+git remote add + name + link
+git remote origin + link
+git push origin main (main is the branch name)
+git pull origin main 
+git remote (origin)
+git remote show 
+git remote rm + name  ( delete)
+git clone + link
+git fetch origin main (refresh)
+git branch login ( adding new branch)
+git checkout + branch name (transfer branches)
+git merge login ( take from login )
+git branch -d + name  ( delete branch)
+
+
+
+
+
